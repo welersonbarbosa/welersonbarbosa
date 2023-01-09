@@ -2,13 +2,12 @@
 
 <!--
 **welersonbarbosa/welersonbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🌱 Atualmente, estou aprendendo Python | JS | HTML | CSS | ReactJs
-😄 Pronouns: Ela/Dela
-⚡ Hobby: Gosto de tocar violão
 -->
+
+- 🌱 Atualmente, estou aprendendo Python | JS | HTML | CSS | ReactJs
+- 😄 Pronouns: Ela/Dela
+- ⚡ Hobby: Gosto de tocar violão
+
 
 
 <div align="center">
