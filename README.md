@@ -4,8 +4,8 @@
 **welersonbarbosa/welersonbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📚 Formado em Analise e Desenvolvimento de Sistemas;
-- 🧰 Conhecimentos em| Python | SQL | HTML | Excel | JavaScrip
+- 📚 Formado em Analise e Desenvolvimento de Sistemas.
+- 🧰 Conhecimentos em| Python | SQL | HTML | CSS | JavaScrip.
 - ⚡ Hobby: Andar de bike.
 
 <div align="center">
