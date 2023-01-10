@@ -4,11 +4,9 @@
 **welersonbarbosa/welersonbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Atualmente, estou aprendendo Python | JS | HTML | CSS | ReactJs
-- 😄 Pronouns: Ela/Dela
-- ⚡ Hobby: Gosto de tocar violão
-
-
+- 📚 Formado em Analise e Desenvolvimento de Sistemas;
+- 🧰 Conhecimentos em| Python | SQL | HTML | Excel | JavaScrip
+- ⚡ Hobby: Andar de bike.
 
 <div align="center">
   <a href="https://github.com/welersonbarbosa">
@@ -29,7 +27,7 @@
   <a href="https://instagram.com/welersonbarbos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   <a href = "mailto:welersonbarbosacupertino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/welerson-barbosa-2244b9170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/welersonbarbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
