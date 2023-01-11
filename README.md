@@ -5,7 +5,7 @@
 -->
 
 - 📚 Formado em Analise e Desenvolvimento de Sistemas.
-- 🧰 Conhecimentos em| Python | SQL | HTML | CSS | JavaScrip.
+- 🧰 Conhecimentos em| Python | SQL | HTML | CSS | JavaScript.
 - ⚡ Hobby: Andar de bike.
 
 <div align="center">
