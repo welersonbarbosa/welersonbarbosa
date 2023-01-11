@@ -1,4 +1,4 @@
-### Oii me chamo Welerson Barbosa, sou novo na area de programação e espero evoluir cada vez mais!🤓
+### Oii me chamo Welerson Barbosa, sou novo na area de programação e espero evoluir cada vez mais 🤓
 
 <!--
 **welersonbarbosa/welersonbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
