@@ -1,10 +1,10 @@
-### Oii me chamo Welerson Barbosa, sou novo na area de programação e espero evoluir cada vez mais 🤓
+### Oi! me chamo Welerson Barbosa, sou novo na área de programação e espero evoluir cada vez mais 🤓
 
 <!--
 **welersonbarbosa/welersonbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📚 Formado em Analise e Desenvolvimento de Sistemas.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas.
 - 🧰 Conhecimentos em| Python | SQL | HTML | CSS | JavaScript.
 - ⚡ Hobby: Andar de bike.
 
